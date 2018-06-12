@@ -1,0 +1,75 @@
+# Messages
+
+## Hand
+
+153 type right
+153 confidence 1.
+153 numfingers 5
+153 numtools 0
+153 grabstrength 0.037907
+153 pinchstrength 0.
+153 palmwidth 85.29351
+153 basis 0.909174 -0.358944 -0.211097 0.41557 0.814419 0.404998 0.02655 -0.455939 0.889615
+153 direction -0.02655 0.455939 -0.889615
+153 palmposition 17.687153 145.784393 17.954603
+153 palmvelocity 1.41865 0.120636 -1.038467
+153 palmnormal -0.41557 -0.814419 -0.404998
+153 wristposition 27.210495 123.438263 63.117935
+153 elbowposition 94.019302 8.016082 278.227509
+153 spherecenter -16.581146 68.272949 -34.499985
+153 sphereradius 99.27475
+153 translationprobability 0.3634
+153 translation 0.014809 0.001079 -0.010762
+153 scaleprobability 0.26266
+153 scalefactor 0.999997
+153 rotationprobability 0.37394
+153 rotationangles 0. 0. 0.
+172 type left
+172 confidence 0.281081
+172 numfingers 5
+172 numtools 0
+172 grabstrength 0.021976
+172 pinchstrength 0.
+172 palmwidth 85.29351
+172 basis -0.369679 -0.600651 -0.708912 -0.728834 0.660683 -0.17972 -0.576315 -0.45024 0.682015
+172 direction 0.576315 0.45024 -0.682015
+172 palmposition -17.388975 230.934921 209.803528
+172 palmvelocity 24.229862 455.968597 238.005905
+172 palmnormal 0.728834 -0.660683 0.17972
+172 wristposition -52.15461 206.527573 238.53334
+172 elbowposition -221.744629 90.604622 386.380981
+172 spherecenter 39.800831 210.105362 202.965408
+172 sphereradius 67.880035
+172 translationprobability 1.
+172 translation 0.357945 4.506262 2.376467
+172 scaleprobability 0.
+172 scalefactor 1.004565
+172 rotationprobability 0.
+172 rotationangles 0.009027 0.005491 -0.011978
+173 type left
+173 confidence 0.106577
+173 numfingers 5
+173 numtools 0
+173 grabstrength 0.
+173 pinchstrength 0.
+173 palmwidth 85.29351
+173 basis -0.964928 -0.245491 -0.092991 -0.258242 0.824034 0.504261 0.047164 -0.51059 0.85853
+173 direction -0.047164 0.51059 -0.85853
+173 palmposition 46.163284 83.282722 -88.726517
+173 palmvelocity 262.722687 42.807884 168.11412
+173 palmnormal 0.258242 -0.824034 -0.504261
+173 wristposition 40.610001 59.01984 -43.890774
+173 elbowposition -124.207283 61.393017 148.170303
+173 spherecenter 54.798988 42.142086 -141.709457
+173 sphereradius 70.319557
+173 translationprobability 1.
+173 translation 2.629877 -0.080658 1.5616
+173 scaleprobability 0.
+173 scalefactor 1.006539
+173 rotationprobability 0.
+173 rotationangles -0.011351 0.013611 0.003611
+
+# Gestures
+
+
+# Fingers
